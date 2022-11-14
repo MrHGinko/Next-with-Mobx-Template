@@ -1,0 +1,7 @@
+# git忽略文件列表
+
+node_modules
+
+.next
+
+yarn-error.log
